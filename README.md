@@ -1,3 +1,5 @@
+This is the Markdown source that the website was compiled from.
+
 # The Complete (hopefully) Guide to Setting Up a Website
 
 *Disclaimer:* The following information has been pooled from multiple sources, found by trial and error, or extrapolated. No responsibility is taken by the author for any incorrect or incomplete information, nor for any unintended effects it may cause. Use the information below at your own risk.
