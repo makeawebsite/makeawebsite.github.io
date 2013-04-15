@@ -237,6 +237,7 @@ samp {
 }
 code a, a code {
   color: rgb(51, 153, 204);
+  text-decoration: underline;
 }
 
 /*
