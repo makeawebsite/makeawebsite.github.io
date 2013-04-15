@@ -235,6 +235,9 @@ samp {
   _font-family: 'courier new', monospace;
   font-size: 1em;
 }
+code a {
+  color: rgb(51, 153, 204);
+}
 
 /*
  * 1. Addresses CSS quotes not supported in IE6/7
